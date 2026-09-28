@@ -1,0 +1,75 @@
+# Vivado build/intermediate files
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+*.srcs
+*.sim
+*.jou
+*.log
+*.mpf
+*.sdk
+*.xbo
+*.xci
+*.xci.tmp
+*.xpr
+*.xpr.bak
+*.gen
+*.backup
+*.bak
+*.jou
+*.str
+*.c
+*.data
+*.hwdef
+*.mark
+*.nnx
+*.mpf
+*.PA
+*.PR
+*.R
+*.sim
+*.ssd
+*.sty
+*.x
+*.xcix
+
+# Vivado generated
+*.hw
+*.ip
+*.ipdefs
+*.mpf
+*.sdk
+*.xbo
+*.xci
+*.xpr
+*.gen
+*.backup
+*.jou
+*.log
+*.str
+
+# Simulation
+xsim.dir/
+xsim.*.dir/
+*.wcfg
+*.wdb
+*.wcfg_db
+*.wdb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
